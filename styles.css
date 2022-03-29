@@ -1,0 +1,145 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-panel {
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    size: 28px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    size: 24px;
+    text-align: center;
+}
+
+.container {
+    border: 2px solid #3c3c3f;
+    padding: 20px;
+    margin: 60px 50px;
+  }
+
+.colors {
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+
+.color-seashell {
+    display: inline-block;
+    width: 35%;
+    background-color: #E7D2CC;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+    margin: 15px;
+}
+
+.color-pewter {
+    display: inline-block;
+    width: 35%;
+    background-color: #B9B7BD;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+    margin: 15px;
+}
+
+.color-gray {
+    display: inline-block;
+    width: 35%;
+    background-color: #868B8E;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+    margin: 15px;
+}
+
+.color-ivory {
+    display: inline-block;
+    width: 35%;
+    background-color: #EEEDE7;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+    margin: 15px;
+}
+
+.fonts {
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+
+.font-label {
+    text-decoration: underline;
+}
+
+
+.font-montserrat {
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    width: 45%;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.font-montserrat-alternates {
+    display: inline-block;
+    font-family: 'Montserrat Alternates', sans-serif;
+    width: 45%;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+.font-merriweather {
+    display: inline-block;
+    font-family: 'Merriweather', serif;
+    width: 40%;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.font-merriweather-sans {
+    display: inline-block;
+    font-family: 'Merriweather Sans', sans-serif;
+    width: 40%;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.regular {
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.styles {
+    text-align: left;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+
+  #text-panel-heading {
+      text-align: left;
+  }
+
+  footer p {
+      text-align: center;
+  }
